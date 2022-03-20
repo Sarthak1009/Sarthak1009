@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Sarthak
 #### I am Frontend Developer
-[<img src='https://github.com/Sarthak1009/Sarthak1009/blob/main/My_banner (1).jpg' alt='My Banner' height='462' width='1344'>]
+[<img src='https://github.com/Sarthak1009/Sarthak1009/blob/main/My_banner (1).jpg' alt='My Banner' height='262' width='1344'>]
 
 
 Skills: VUE JS / REACT / JS / HTML / CSS
