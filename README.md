@@ -9,7 +9,7 @@
 ### * <img src='css.png' height='24' width='24'>Css
 ### * <img src='js.png' height='24' width='24'>JavaScript
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sarthak1009&theme=tokyonight&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sarthak1009&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true)  
 
 ### * <img src='work.png' height='24' width='24'> I’m currently working at Zeus Learning 
 
