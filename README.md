@@ -4,9 +4,9 @@
 
 
 ## Skills and Experience
-### * <img src='angular.png'>Angular
-### * <img src='html.png'>Html
-### * <img src='css.png'>Css
+### * <img src='angular.png' height='24' width='24'>Angular
+### * <img src='html.png' height='24' width='24'>Html
+### * <img src='css.png' height='24' width='24'>Css
 
 - 🔭 I’m currently working on Zeus Learning 
 
