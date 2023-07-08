@@ -11,7 +11,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sarthak1009&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true)  
 
-### * <img src='work.png' height='24' width='24'> I’m currently working at Zeus Learning 
+### * <img src='work.png' height='24' width='24'> I’m currently working at Illusion Dental Labratory
 
 ### Socials
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sarthak1009)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sarthak._.dubey)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sarthak1009.github.io/portfolio)  
