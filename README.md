@@ -5,6 +5,7 @@
 
 ## Skills and Experience
 ### * <img src='angular.png' height='24' width='24'>Angular
+### * <img src='sql.png' height='24' width='24'>SQL
 ### * <img src='html.png' height='24' width='24'>Html
 ### * <img src='css.png' height='24' width='24'>Css
 ### * <img src='js.png' height='24' width='24'>JavaScript
